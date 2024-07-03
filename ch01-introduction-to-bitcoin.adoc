@@ -54,7 +54,7 @@ access and a computer program, like a mobile app, to use it.
 
 .The Bitcoin network and its ecosystem.
 [[actors]]
-image::{imagedir}/01-01.svg[{big-width}]
+image::images/ch01/01-01.svg[{big-width}]
 
 Anyone can use or participate in the Bitcoin network without special
 permission from a bank or similar institution. Thanks to Bitcoin’s
