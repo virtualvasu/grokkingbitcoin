@@ -1,5 +1,6 @@
 [[ch08]]
 == Peer-to-peer network
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch08
 This chapter covers
 
