@@ -1,5 +1,6 @@
 [[ch06]]
 == The blockchain
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch06
 
 This chapter covers
