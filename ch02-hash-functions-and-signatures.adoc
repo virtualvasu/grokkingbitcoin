@@ -1,5 +1,6 @@
 [[ch02]]
 == Cryptographic hash functions and digital signatures
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch02
 
 This chapter covers
