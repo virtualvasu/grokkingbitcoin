@@ -1,5 +1,6 @@
 [[ch10]]
 == Segregated witness
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch10
 
 This chapter covers
