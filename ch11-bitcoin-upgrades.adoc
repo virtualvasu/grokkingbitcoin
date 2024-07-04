@@ -1,5 +1,6 @@
 [[ch11]]
 == Bitcoin upgrades
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch11
 
 This chapter covers
