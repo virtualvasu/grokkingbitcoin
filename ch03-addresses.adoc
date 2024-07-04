@@ -1,5 +1,6 @@
 [[ch03]]
 == Addresses
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch03
 
 This chapter covers
