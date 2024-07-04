@@ -1,5 +1,6 @@
 [[ch01]]
 == Introduction to Bitcoin
+:baseimagedir: grokkingbitcoin/images
 :imagedir: {baseimagedir}/ch01
 
 * Getting to know Bitcoin
@@ -210,6 +211,7 @@ this by consulting its local copy of the blockchain and verifying that
 
 [[overview-bitcoin-network]]
 .Alice has sent her transaction to a node in the network. The node verifies the transaction and forwards it to other nodes. Eventually, the transaction will reach all nodes in the network.
+
 image::{imagedir}/01-04.svg[{full-width}]
 
 [.inbitcoin]
