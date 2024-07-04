@@ -1,6 +1,6 @@
 [[ch01]]
 == Introduction to Bitcoin
-:baseimagedir: grokkingbitcoin/images
+:baseimagedir: /grokkingbitcoin/images
 :imagedir: {baseimagedir}/ch01
 
 * Getting to know Bitcoin
