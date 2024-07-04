@@ -1,5 +1,6 @@
 [[ch04]]
 == Wallets
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch04
 
 This chapter covers
