@@ -1,5 +1,6 @@
 [[ch05]]
 == Transactions
+:baseimagedir: images
 :imagedir: {baseimagedir}/ch05
 
 This chapter covers
