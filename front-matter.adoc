@@ -7,6 +7,7 @@ _And to all awesome Bitcoiners everywhere._
 
 [preface]
 == Foreword
+:baseimagedir: images
 :imagedir: {baseimagedir}/fm
 
 What is the difference between Bitcoin and the various monies used in
